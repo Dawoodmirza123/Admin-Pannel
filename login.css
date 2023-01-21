@@ -1,0 +1,28 @@
+#div{
+    width: 500px;
+    background-color: white !important;
+}
+ul{
+    width: 500px !important;
+}
+a{
+    background-color: white !important;
+    margin-top: 25px;
+    margin-bottom: -25px;
+}
+.innp{
+    width: 460px;
+    height: 50px;
+    padding: 5px;
+}
+#fgp{
+    margin-left: -320px;
+    margin-top: -25px;
+}
+#rmd{
+    margin-left: -60px;
+
+}
+#footer{
+    margin-top: 406px !important;
+}
